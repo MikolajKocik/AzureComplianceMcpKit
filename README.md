@@ -2,22 +2,6 @@
 
 This project implements an MCP-compatible server that exposes practical tools for compliance and Azure operations, suitable for integration with MCP clients (e.g., Claude Desktop or an MCP gateway). It can run locally or in a container.
 
-Note: Replace any TODO markers with your project-specific details as needed.
-
-## Table of Contents
-- Overview
-- Features
-- Requirements
-- Quick Start
-- MCP Client Configuration
-- Configuration (Environment)
-- Docker
-- Project Structure
-- Development
-- Troubleshooting
-- Security
-- License
-
 ## Overview
 - Purpose: Provide an MCP server exposing:
   - Compliance analysis and report generation.
