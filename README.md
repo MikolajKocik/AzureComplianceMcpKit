@@ -1,4 +1,4 @@
-# Claude AI MCP
+# AzureComplianceMcpKit
 
 This project implements an MCP-compatible server that exposes practical tools for compliance and Azure operations, suitable for integration with MCP clients (e.g., Claude Desktop or an MCP gateway). It can run locally or in a container.
 
